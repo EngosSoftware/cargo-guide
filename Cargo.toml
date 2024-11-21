@@ -1,0 +1,13 @@
+[package]
+name = "cargo-guide"
+version = "0.0.0"
+authors = ["Dariusz Depta <depta@engos.de>"]
+description = "Cargo CLI for user guide generator for Rust crates"
+documentation = "https://docs.rs/cargo-guide"
+repository = "https://github.com/EngosSoftware/cargo-guide.git"
+keywords = ["user", "guide", "generator", "cargo"]
+categories = ["command-line-utilities"]
+license = "MIT OR Apache-2.0"
+edition = "2021"
+
+[dependencies]
